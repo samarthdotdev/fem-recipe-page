@@ -53,6 +53,7 @@ h2 {
 }
 
 .prep-time-heading {
+  font-family: "Outfit", sans-serif;
   font-weight: 600;
   font-size: 1.25rem;
   color: hsl(332, 51%, 32%);
