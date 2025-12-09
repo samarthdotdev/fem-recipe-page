@@ -52,7 +52,7 @@ h2 {
   font-size: 1.75rem;
 }
 
-h3 {
+.prep-time-heading {
   font-weight: 600;
   font-size: 1.25rem;
   color: hsl(332, 51%, 32%);
